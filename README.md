@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="스크린샷 2026-09-09 092856" src="https://github.com/user-attachments/assets/14d8a0ba-56b5-4dfd-9520-95a8e4c6b9f8" />
 # SOAR-Bot
 ### n8n 기반 보안 이벤트 판정 및 다중 채널 알림 자동화
 
