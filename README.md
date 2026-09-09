@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="스크린샷 2026-09-09 092856" src="https://github.com/user-attachments/assets/14d8a0ba-56b5-4dfd-9520-95a8e4c6b9f8" />
 # SOAR-Bot
 ### n8n 기반 보안 이벤트 판정 및 다중 채널 알림 자동화
 
@@ -103,7 +102,7 @@ Webhook으로 수신한 데이터를 판정 노드에서 처리하고, IF 노드
 
 `soar-bot` 채널에서 거부 이벤트와 허용 이벤트가 각각 전달된 것을 확인했습니다.
 
-![Slack 알림 결과](images/slack.png)
+<img width="1920" height="1080" alt="스크린샷 2026-09-09 092856" src="https://github.com/user-attachments/assets/14d8a0ba-56b5-4dfd-9520-95a8e4c6b9f8" />
 
 ### Discord
 
