@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="스크린샷 2026-09-09 092909" src="https://github.com/user-attachments/assets/bf94b38b-0224-4da2-baaa-1fbf83856d7e" />
 # SOAR-Bot
 ### n8n 기반 보안 이벤트 판정 및 다중 채널 알림 자동화
 
@@ -59,7 +58,7 @@
 
 Webhook으로 수신한 데이터를 판정 노드에서 처리하고, IF 노드에서 허용·거부로 분기합니다. 각 분기에서 생성한 메시지와 이벤트 정보를 외부 서비스로 전달합니다.
 
-![n8n 전체 워크플로우](images/workflow.png)
+<img width="1920" height="1080" alt="스크린샷 2026-09-09 092909" src="https://github.com/user-attachments/assets/bf94b38b-0224-4da2-baaa-1fbf83856d7e" />
 
 ## 4. 주요 기능
 
