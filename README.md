@@ -111,7 +111,7 @@ Webhook으로 수신한 데이터를 판정 노드에서 처리하고, IF 노드
 
 Discord 봇 메시지에서 출발지 IP, 심각도, 거부 사유를 확인할 수 있습니다.
 
-![Discord 알림 결과](images/discord.png)
+<img width="1205" height="838" alt="스크린샷 2026-09-09 092924" src="https://github.com/user-attachments/assets/eee61a6e-1c89-47fa-af51-ada02c42bdc9" />
 
 ### Telegram
 
