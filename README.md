@@ -122,7 +122,7 @@ Telegram 봇을 통해 동일한 판정 결과를 수신했습니다.
 
 첨부 화면에는 총 4건의 이벤트가 기록되어 있으며, 거부 2건과 허용 2건으로 표시됩니다. 최다 거부 IP는 `192.168.0.10`입니다.
 
-![보안 대시보드](images/dashboard.png)
+<img width="1920" height="1080" alt="스크린샷 2026-09-09 093242" src="https://github.com/user-attachments/assets/dc7ed6e1-f65b-4c7a-a877-4f8e496313c1" />
 
 ## 6. 대시보드 연동 API
 
