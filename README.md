@@ -144,8 +144,6 @@ Unexpected identifier '$'
 SyntaxError
 ```
 
-![Code 노드 오류 화면](images/troubleshooting.png)
-
 이 오류는 코드 구문과 실행 환경을 점검해야 하는 사례로 기록했습니다. 스크린샷만으로 정확한 원인이나 수정 내용을 확정할 수는 없습니다.
 
 점검 항목:
